@@ -98,5 +98,5 @@ contract CropInsurance is ChainlinkClient {
 
     // Weitere Funktionen wie withdrawLink()
 
-function withdrawLink() 
+//function withdrawLink() 
 }
